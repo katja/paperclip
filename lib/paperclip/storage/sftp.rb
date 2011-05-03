@@ -98,3 +98,5 @@ module Paperclip
       private :find_credentials
 
     end
+  end
+end
